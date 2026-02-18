@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# 👋 Hi, I’m **<YOUR NAME>**
+# 👋 Hi, I’m **Ferdous Niloy**
 ### 🛡️ Professional Smart Contract Auditor • Solidity • DeFi • EVM
 
 <a href="<YOUR WEBSITE / PORTFOLIO LINK>"><img alt="Website" src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"></a>
